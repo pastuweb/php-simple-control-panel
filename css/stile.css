@@ -1,0 +1,110 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #FFF;
+	color: #000000;
+	font-family:Arial, Helvetica, sans-serif;
+	width:100%;
+}
+
+.cssLogin{
+	width:500px;
+	margin:auto;
+	margin-top:2%;
+	heigth:400px;
+	padding:10px;
+	text-align:left;
+}
+
+.cssInserimento{
+	width:500px;
+	margin:auto;
+	margin-top:2%;
+	heigth:400px;
+	padding:10px;
+	text-align:left;
+}
+
+.cssPastuweb{
+	width:1000px;
+	margin:auto;
+	margin-top:5%;
+	margin-bottom:5%;
+	padding:10px;
+	border:1px solid #EFEFEF;
+	text-align:center;
+	position:relative;
+}
+
+.cssAdmin{
+	width:900px;
+	margin:auto;
+	margin-top:2%;
+	heigth:600px;
+	padding:10px;
+	text-align:left;
+}
+
+.cssErrore{
+	width:500px;
+	margin:auto;
+	margin-top:2%;
+	heigth:300px;
+	padding:10px;
+	text-align:left;
+}
+
+.logoPastuweb{
+	width:150px;
+	margin:auto;
+	text-decoration:none;
+}
+
+.sezione{
+	width:100%;		
+}
+
+table{
+	width:100%;
+}
+th{
+	background-color:#484848;
+	color:#FFFFFF;
+	text-align: center;
+}
+.ico_delete{
+	width:30px;
+	text-decoration:none;
+	text-align: center;
+}
+
+.successo{
+	text-align:center;
+	color:#088A29;
+	font-weight:bold;
+	background:#FFFFFF;
+	font-size:16px;
+	border: 1px solid #088A29;
+}
+.errore{
+	text-align:center;
+	color:#FF0000;
+	font-weight:bold;
+	background:#FFFFFF;
+	font-size:16px;
+	border: 1px solid #FF0000;
+}
+.hoverPulsante{
+	background:#A80000;
+	color:#000000;
+}
+.defaultPulsante{
+	background:#000000;
+	color:#FFFFFF;
+}
+
+img{
+	border:0px;
+}
